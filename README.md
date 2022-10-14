@@ -12,4 +12,15 @@ Esta API foi escolhida pois Pokemon é uma das minhas séries de jogos predileta
 * CSS
 * Javascript
 
-#
+# Funções Presentes
+
+* Atualmente o projeto apenas com os 6 Pokemons que eu utilizei quando joguei o Pokemon Fire Red
+
+
+# Funções Futuras
+
+* Mostrar todos os meus Pokemons Favoritos 
+* Adicionar/Remover Pokemons
+
+
+
