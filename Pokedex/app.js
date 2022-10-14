@@ -29,5 +29,5 @@ const fetchPokemon = () => {
             ul.innerHTML = lisPokemons
     })
 }
-
+// teste
 fetchPokemon()
